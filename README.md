@@ -1,2 +1,2 @@
 # golang
-Live and die for Go!
+Go spread love!
