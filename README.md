@@ -1,2 +1,2 @@
-# golang
-Readme file for documentation.
+# go
+Go spread love!
